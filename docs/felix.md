@@ -4,3 +4,4 @@
  - From: Lausanne
  - Food: Coffee
  - Hobby: Climbing
+ - Color: Red
